@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[rgba(100, 114, 140, 1)]]>
+    </line>
+    <line>
+      <![CDATA[Username : Admin]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-10-07T12:25:01 IST" name="Suite" finished-at="2025-10-07T12:25:52 IST" duration-ms="50363">
+    <groups>
+    </groups>
+    <test started-at="2025-10-07T12:25:01 IST" name="Test" finished-at="2025-10-07T12:25:52 IST" duration-ms="50363">
+      <class name="com.testscripts.Crm_Login_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:01 IST" name="setup" finished-at="2025-10-07T12:25:11 IST" duration-ms="9187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:11 IST" name="login" finished-at="2025-10-07T12:25:14 IST" duration-ms="3264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:14 IST" name="teardown" finished-at="2025-10-07T12:25:14 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:14 IST" name="setup" finished-at="2025-10-07T12:25:19 IST" duration-ms="5197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectusercolor()[pri:2, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:19 IST" name="selectusercolor" finished-at="2025-10-07T12:25:20 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[rgba(100, 114, 140, 1)]]>
+            </line>
+            <line>
+              <![CDATA[Username : Admin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectusercolor -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testscripts.Crm_Login_test@1a5b6f42]" started-at="2025-10-07T12:25:20 IST" name="teardown" finished-at="2025-10-07T12:25:20 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testscripts.Crm_Login_test -->
+      <class name="com.testscripts.Crm_leave_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.Crm_leave_test@7b50df34]" started-at="2025-10-07T12:25:20 IST" name="setup" finished-at="2025-10-07T12:25:28 IST" duration-ms="7375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="leavepage()[pri:0, instance:com.testscripts.Crm_leave_test@7b50df34]" started-at="2025-10-07T12:25:28 IST" name="leavepage" finished-at="2025-10-07T12:25:31 IST" duration-ms="3545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leavepage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testscripts.Crm_leave_test@7b50df34]" started-at="2025-10-07T12:25:52 IST" name="teardown" finished-at="2025-10-07T12:25:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testscripts.Crm_leave_test -->
+      <class name="com.testscripts.Crm_Pim_test">
+        <test-method is-config="true" signature="setup_config()[pri:0, instance:com.testscripts.Crm_Pim_test@1b410b60]" started-at="2025-10-07T12:25:31 IST" name="setup_config" finished-at="2025-10-07T12:25:48 IST" duration-ms="16472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_config -->
+        <test-method signature="click_Pim()[pri:0, instance:com.testscripts.Crm_Pim_test@1b410b60]" started-at="2025-10-07T12:25:48 IST" name="click_Pim" finished-at="2025-10-07T12:25:51 IST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_Pim -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testscripts.Crm_Pim_test@1b410b60]" started-at="2025-10-07T12:25:51 IST" name="teardown" finished-at="2025-10-07T12:25:52 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testscripts.Crm_Pim_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
